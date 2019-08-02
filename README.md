@@ -22,3 +22,13 @@ For this project, I was interestested in analysing the FIFA World Cups to uneart
   1. Who has won the most World Cups?
   2. Who has the most World Cup matches in total?
   3. Who has the advantage: Home or Away Team? 
+  4. What are the stats of goals scored each Year per Match?
+  5. What were the total Goals Scored each Year?
+  6. Which countries have scored the most goals?
+  7. How do the Teams compare to one another?
+  8. How many people attended the WC each year?
+  
+.........................................................................................................................................................................................................................................................
+<a name="descriptions"/>
+## File Descriptions
+h
