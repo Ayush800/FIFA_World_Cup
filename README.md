@@ -1,5 +1,5 @@
 ### Table of Contents
-1. [Installation](#Installation)
+1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#descriptions)
 4. [Results](#results)
@@ -10,6 +10,7 @@
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*
 
+<a name="motivation"/>
 ## Project Motivation
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
