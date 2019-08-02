@@ -34,11 +34,12 @@ For this project, I was interestested in analysing the FIFA World Cups to uneart
 The folder `csv` has 2 files:
   1. Cups.csv -- Contains the winners and runners-up
   2. Matches.csv -- Contains all the matches played since 1934
+The folder `Jupyter Notebook` has 1 file that contains the jupyter notebook for the visualisations.
   
 .........................................................................................................................................................................................................................................................
 <a name="results"/>
 ## Results
-The main findings of the code can be found at the post available [here](https://medium.com/@__kaustubh__/10-things-you-should-know-about-the-fifa-world-cup-8f7aabc8e46d)
+The main findings of the code can be found at the post available [here.](https://medium.com/@__kaustubh__/10-things-you-should-know-about-the-fifa-world-cup-8f7aabc8e46d)
 
 .........................................................................................................................................................................................................................................................
 <a name="acknowledgement"/>
