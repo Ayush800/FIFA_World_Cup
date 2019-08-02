@@ -33,8 +33,7 @@ For this project, I was interestested in analysing the FIFA World Cups to uneart
 ## File Descriptions
 The folder `csv` has 2 files:
   1. Cups.csv -- Contains the winners and runners-up
-  2. Matches.csv -- Contains all the matches played since 1934
-.
+  2. Matches.csv -- Contains all the matches played since 1934<br/>
 The folder `Jupyter Notebook` has 1 file that contains the jupyter notebook for the visualisations.
   
 .........................................................................................................................................................................................................................................................
