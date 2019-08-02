@@ -38,8 +38,9 @@ The folder `csv` has 2 files:
 .........................................................................................................................................................................................................................................................
 <a name="results"/>
 ## Results
-The main findings of the code can be found at the post available [here][https://medium.com/@__kaustubh__/10-things-you-should-know-about-the-fifa-world-cup-8f7aabc8e46d]
+The main findings of the code can be found at the post available [here](https://medium.com/@__kaustubh__/10-things-you-should-know-about-the-fifa-world-cup-8f7aabc8e46d)
 
 .........................................................................................................................................................................................................................................................
 <a name="acknowledgement"/>
-g
+## Acknowledgements
+Must give credit to [Kaggle](https://www.kaggle.com/abecklas/fifa-world-cup) for the data. Also, feel free to use the code here as you would like!
