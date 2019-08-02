@@ -1,13 +1,9 @@
 ### Table of Contents
-    1. Installation
-    2. Project Motivation
-    3. File Descriptions
-    4. Results
-    5. Acknowledgements
-    ---
-    ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+    1. [Installation](#installation)
+    2. [Project Motivation](#motivation)
+    3. [File Descriptions](#description)
+    4. [Results](#results)
+    5. [Acknowledgement](#acknowledgement)
+---
+<a name="installation"/>
+## Installation
