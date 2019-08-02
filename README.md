@@ -19,6 +19,6 @@ The following libraries are needed:
 <a name="motivation"/>
 ## Project Motivation
 For this project, I was interestested in analysing the FIFA World Cups to unearth facts and figures about the questions that have always intrigued me:
-  --> Who has won the most World Cups?
-  --> Who has the most World Cup matches in total?
-  --> 
+  1. Who has won the most World Cups?
+  2. Who has the most World Cup matches in total?
+  3. Who has the advantage: Home or Away Team? 
