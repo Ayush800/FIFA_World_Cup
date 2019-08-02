@@ -5,7 +5,7 @@
 4. [Results](#results)
 5. [Acknowledgement](#acknowledgement)
 ---
-
+...snip...    
 <a name="installation"/>
 ## Installation
 ---
